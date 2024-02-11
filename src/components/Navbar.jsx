@@ -46,7 +46,7 @@ function Navbar() {
           </svg>
         </label>
         <LuShoppingCart className="mr-[5px]" />
-        <div className="badge badge-secondary">{amount}</div>
+        <div className="badge badge-secondary w-full">{amount}</div>
       </div>
     </div>
   );
